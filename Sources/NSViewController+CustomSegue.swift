@@ -21,7 +21,7 @@
  SOFTWARE.
  */
 
-import Foundation
+import AppKit
 
 public extension NSViewController {
 
